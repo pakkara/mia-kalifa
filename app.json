@@ -1,0 +1,14 @@
+{
+    "name": "mia-kalifa ",
+    "description": "Deploy your own heroku",
+    "logo":"https://jackfisherbooks.files.wordpress.com/2019/08/mia-khalifa.jpg",
+    "keywords": ["xray"],
+    "env": {
+        "UUID": {
+            "description": "gen your uuid from here (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/",
+    "stack": "container"
+}
